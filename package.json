@@ -1,0 +1,25 @@
+{
+  "name": "scaffold-bff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server": "^2.9.7",
+    "graphql": "^14.5.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akiroussama/scaffold-bff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akiroussama/scaffold-bff/issues"
+  },
+  "homepage": "https://github.com/akiroussama/scaffold-bff#readme"
+}
